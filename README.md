@@ -30,10 +30,10 @@ Here are some screenshots of the app showcasing the user interface and functiona
 
 To run the app locally:
 
-1. Clone the repository:
+-1. Clone the repository:
    ```bash
    git clone <repository_url>
-2.Navigate into the project directory: cd quiz_app
-3.Open the project in Android Studio.
-4.Sync the project with Gradle files.
-5.Build and run the app on an emulator or physical device.
+-2.Navigate into the project directory: cd quiz_app
+-3.Open the project in Android Studio.
+-4.Sync the project with Gradle files.
+-5.Build and run the app on an emulator or physical device.
